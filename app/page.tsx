@@ -35,8 +35,11 @@ export default function Home() {
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<div className="my-16 text-center animate-fade-in">
 				<h2 className="text-sm text-zinc-500 ">
-					Hi, my name is Sharnell , Junior Developer with MERN Stack expernice 
+					Hi, my name is Sharnell , Junior Developer with experience in the MERN Stack, I have immersed myself in the dynamic world of software development, constantly seeking innovative solutions and pushing the boundaries of what is possible.
+					I bring a positive and proactive mindset to every project I undertake. I thrive in collaborative environments, embracing teamwork and effective communication to achieve shared goals. 
+				    Thank you for visiting, and I look forward to connecting with you to discuss exciting opportunities or collaborations in this exhilarating realm. Sharnellggraham@gmail.com
 				</h2>
+
 			</div>
 		</div>
 	);
