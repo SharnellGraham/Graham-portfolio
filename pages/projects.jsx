@@ -3,19 +3,29 @@ import React from 'react';
 const ProjectsPage = () => {
   const projects = [
     {
-      title: 'Simon Says Game',
-      description: 'A fun memory game',
-      embedUrl: 'https://sharnellgraham.github.io/Simon-says-game/'
-    },
-    {
       title: 'Chatbox',
       description: 'A real-time chat application',
       embedUrl: 'https://chatbox-ten.vercel.app/'
     },
     {
+      title: 'Simon Says Game',
+      description: 'A fun memory game',
+      embedUrl: 'https://sharnellgraham.github.io/Simon-says-game/'
+    },
+    {
       title: 'Aesthetic Raindrop',
       description: 'A beautiful weather app',
       embedUrl: 'https://aesthetic-raindrop-2c9eee.netlify.app/'
+    },
+    {
+      title: 'UI Patterns Project',
+      description: 'A project showcasing UI patterns',
+      embedUrl: 'https://sharnellgraham.github.io/UI-Patterns-Project/'
+    },
+    {
+      title: 'React App Giphy API Project',
+      description: 'A project demonstrating a React application using the Giphy API',
+      embedUrl: 'https://sharnellgraham.github.io/React-App-Giphy-API-Project/#/'
     },
   ];
 
